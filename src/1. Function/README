@@ -1,0 +1,3 @@
+The Refinitiv Data Platform Library for .NET does not utilize interfaces at the Function layer.
+
+The Function layer is reserved for scripting languages such as Python.  Refer to the Refinitiv Data Platform Library for Python.
