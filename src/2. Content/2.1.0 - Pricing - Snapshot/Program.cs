@@ -37,7 +37,7 @@ namespace SnapshotPrice
                     // Print the contents of one item
                     Console.WriteLine($"\nEUR= contents: {response.Data.Prices["EUR="].Fields()}");
 
-                    // Iterate through the cache print out specific fields for each entry
+                    // Iterate through the response and print out specific fields for each entry
                     Console.WriteLine("\nIterate through the cache and display a couple of fields");
                     foreach (var item in response.Data.Prices)
                         Console.WriteLine($"Quote for item: {item.Key}\n{item.Value.Fields("BID", "ASK")}");
