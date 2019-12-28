@@ -1,1 +1,4 @@
 /src/Configuration/Credentials.github.cs
+bin
+obj
+.vs
