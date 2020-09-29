@@ -8,12 +8,10 @@ The Refinitiv Data Platform Library for .NET is structured as a stack of interfa
 
 ### **Content**
 
-The *Content* examples target higher-level abstractions representing financial items like Price, News, Historical Data, etc. The *Content* layer can easily be used by both professional developers and financial coders. It provides great flexibility for commonly used financial objects.
+The *Content* examples target higher-level abstractions representing financial items like Pricing, News, Historical Data, etc. The *Content* layer can easily be used by both professional developers and financial coders. It provides great flexibility for commonly used financial objects.
 
 ### **Delivery**
 
-The *Delivery* examples target the interfaces defined within the lowest abstraction layer of the library.  The examples will use different delivery modes such as Streaming, Data, Alert and Bulk services.
-
-In addition, the package includes examples that demonstrate the logging capabilities offered within the library.  Refer to the .Solution/Logging folder for more details.
+The *Delivery* examples target the interfaces defined within the lowest abstraction layer of the library.  The examples provide core level services including logging and WebSocket customization.  In addition, different delivery service examples such as Request/Reply data endpoints, real-time streaming and interfaces supporting queuing capabilities offered for news headlines, stories and research message services.
 
 

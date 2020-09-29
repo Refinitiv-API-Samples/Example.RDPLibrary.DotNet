@@ -20,13 +20,16 @@
         // AppKey used for both Desktop or Platform session types.
         public static string AppKey { get; } = "<Application Key>";
 
+        // Research UserID (Used by example 3.3.03-Queue-Research)
+        public static string ResearchID { get; } = "<Research ID>";
+
         // ********************************************************************
         // TREP Global Authentication parameters
         //
         // Note: Parameters in this section are only applicable if you were
         //       provided ADS WebSocket connection details.
         // ********************************************************************
-        public static string TREPHost { get; } = "<server>:<port>";   // Eg: "ewa:15000"
+        public static string TREPHost { get; } = "<server>:<port>";   // Eg: "wsserver:15000"
     }
 }
 
