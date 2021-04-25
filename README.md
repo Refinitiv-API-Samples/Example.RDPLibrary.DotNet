@@ -1,6 +1,6 @@
 # Refinitiv Data Platform Library for .NET
 
-**Note**: This project has been re-branded to Refinitiv Data Library for .Net.  Please refer to the [latest release](https://github.com/Refinitiv-API-Samples/Example.RDPLibrary.DotNet).
+**Note**: This project has been re-branded to Refinitiv Data Library for .Net.  Please refer to the [latest release](https://github.com/Refinitiv-API-Samples/Example.DataLibrary.DotNet).
 
 ## Summary
 
