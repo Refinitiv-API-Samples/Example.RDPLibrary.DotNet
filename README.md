@@ -1,5 +1,7 @@
 # Refinitiv Data Platform Library for .NET
 
+**Note**: This project has been re-branded to Refinitiv Data Library for .Net.  Please refer to the [latest release](https://github.com/Refinitiv-API-Samples/Example.RDPLibrary.DotNet).
+
 ## Summary
 
 The following series of examples demonstrate how to programmatically access content residing within the **Refinitiv Data Platform (RDP)** using a single, ease of use API called the **Refinitiv Data Platform Library for .NET**.  The platform refers to the layer of data services providing both streaming and non-streaming content serving different clients, from the simple desktop interface to the enterprise application.  
